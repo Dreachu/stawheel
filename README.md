@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="Youtube Logo"></p>
+<p align="center"><img src="https://i.postimg.cc/SRCYZcbH/image.png" alt="Youtube Logo"></p>
 
 <h1 align="center">Youtube STA Wheel</h1>
 
